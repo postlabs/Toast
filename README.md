@@ -33,8 +33,10 @@ Every useful thing your agent has ever done for you, **you carried across
 yourself.** You are the bridge between it and the world, every single time.
 
 Nobody likes this, so everybody has tried to fix it: an MCP server, a fistful of
-API keys, a skills folder, a lost afternoon — and after all that you ask it for a
-summary maybe twice, and go back to carrying things yourself.
+API keys, a skills folder, a lost afternoon. What you get back is **constant
+management for a marginal gain** — one more thing to maintain, re-approve and
+re-explain, so that you can ask it for a summary maybe twice and then go back to
+carrying things yourself.
 
 **Toast is that bridge.** Your agent stops describing the job and does it.
 
