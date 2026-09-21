@@ -22,49 +22,69 @@ on your behalf. For any task, in any realm.
 
 ## Reach
 
-**The real web, signed in as you.** Not a scrape and not a search summary — an
-actual browser carrying your own session, reading the JSON a page fetched for
-itself. Every row behind a listing, including the counts and IDs the page never
-shows you.
+**The real web, signed in as you.** Not a scrape and not a search summary. Toast
+drives a real browser carrying your own session, then reads the JSON the page
+fetched for itself — every row behind a listing, with the counts, scores and IDs
+the rendered card leaves out. A read that works once is promoted into a **dough**
+you can run again tomorrow.
 
-**Your accounts, without holding your passwords.** Mail, calendar, drive, the
-shops and banks and boards you use. Credentials live in an encrypted local vault
-your agent cannot read; every reveal needs Windows Hello, which software cannot
-answer for itself.
+**Your accounts, connected once.** Mail, calendar, drive, messaging, the shops and
+banks and boards you use — each one a **kit**: a small, declared integration with
+its own auth, tools and doughs. Connect what you want reached and nothing else.
+
+**One yes, not a thousand.** Say yes once and your agent runs the task end to end,
+with no pop-up per step. That is real power, so connect only what you actually
+want it to touch.
 
 ## A canvas, not a chat log
 
 Answers land on a **living canvas** beside the conversation — tables, charts,
-cards, documents. Real surfaces, not a wall of text to scroll back through.
+cards, documents, rendered by **spreads**, a declarative layout grammar rather
+than screenshots or markdown.
 
-The agent keeps working on them. It mounts a result, then re-renders, reorders
-and updates it **across turns** as the picture fills in. Every edit appends a new
-version, so nothing is overwritten and you can step back through how the work got
-here.
+The agent keeps working on them. It mounts a result, then re-renders, reorders and
+updates it **across turns** as the picture fills in. The canvas is append-only:
+every edit is a new version, nothing is overwritten, and you can step back through
+how the work got here.
 
-Your canvas *is* the conversation — it is still there tomorrow, still filling in.
+Your canvas *is* the conversation — still there tomorrow, still filling in.
 
 ## Work that continues without you
 
-Put an agent on standing duty. It wakes on a schedule or on a message, does the
-work while you are away, and reports back to the room that asked — watching a
+Put an agent on **standing duty**. It wakes on a schedule or on a message, does
+the work while you are away, and reports back to the room that asked — watching a
 price, a listing, an inbox, a filing.
 
-What your agent works out once becomes a readable, portable artifact: re-run it,
-share it, hand it to someone else. Not a transcript, and not a recorded
-click-path that breaks the day a button moves.
+What it works out once becomes a portable artifact: readable YAML you can re-run,
+fork, or hand to someone else. Not a transcript, and not a recorded click-path
+that breaks the day a button moves.
 
-## Built by the people using it
+## It is free
 
-Toast is a community-built framework. Sign in with the plan you already have, then
-pick from the superpowers people have already built and shared. Take one, change
-it, publish your own.
+Toast is a new kind of agentic framework for your AI, and there is no bill from
+us. Every run spends the Claude, ChatGPT or Gemini plan you already have.
+
+It hyperscales through its community: people build **doughs** and publish them,
+and the next person installs one instead of paying the tokens to work it out
+again. Take one, change it, publish your own.
+
+## Your data goes to your AI, not to us
+
+Your chats and what the agent works on go to the servers of the AI you chose —
+exactly as they do today. Nothing routes through us.
+
+Passwords and sensitive data are double-encrypted and stored on this computer,
+never exposed to the agent or to any server. Revealing one needs Windows Hello:
+a human has to be present, and software cannot answer for itself.
+
+Each account gets its own isolated profile — its own data, history and
+connections. Nothing leaks between them.
 
 ## Install
 
-One file, under a megabyte. It fetches the app in layers, and every update after
-that downloads only what changed. If a release ever misbehaves it restores the
-last version that worked, by itself, with no download.
+One file, under a megabyte. It fetches the app in content-addressed layers, and
+every update after that downloads only the blobs that changed. If a release ever
+misbehaves it restores the last version that worked, by itself, with no download.
 
 Windows 10 (64-bit) or later. macOS and Linux are in progress.
 
