@@ -41,9 +41,9 @@ carrying things yourself.
 **Toast is that bridge.** Your agent stops describing the job and does it.
 
 ```
-   Claude   ──┐                                        ┌──  live sites, signed in as you
-   ChatGPT  ──┼──▶  reach · canvas · standing duty  ──▶┼──  mail · calendar · drive
-   Gemini   ──┘                                        └──  shops · banks · boards
+  Claude   ──┐               ┌──  live sites, signed in as you
+  ChatGPT  ──┼──▶  Toast  ──▶┼──  mail · calendar · drive
+  Gemini   ──┘               └──  shops · banks · boards
 ```
 
 ## Ask for the whole job
@@ -151,12 +151,12 @@ connections. Nothing leaks between them.
 ## Install
 
 ```
-  ToastSetup.exe   ~1 MB       one file, and it asks before anything lands
+  ToastSetup.exe  ~1 MB     asks before anything lands on disk
         │
-        ├─ runtime            Electron · Node · CPython · uv
-        ├─ engine             the backend and its natives
-        └─ app                the interface, kits, spreads, baskets
-                              ↳ every later update fetches only what changed
+        ├─ runtime     Electron · Node · CPython · uv
+        ├─ engine      the backend and its natives
+        └─ app         the interface, kits, spreads, baskets
+                       ↳ later updates fetch only what changed
 ```
 
 If a release ever misbehaves it restores the last version that worked, by itself,
