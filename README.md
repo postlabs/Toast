@@ -68,9 +68,22 @@ bringing back the evidence.
 > Reads the message, matches what he bought last time, fills the cart, totals it,
 > and pings your phone before anything is paid for.
 
-None of these are a prompt you have to engineer. They are **baskets** — small
-apps built from doughs — and they ship with the app or come from people who
-published theirs.
+None of these is a prompt you have to engineer. They are **baskets** — small apps
+built from doughs — and they ship with the app or come from people who published
+theirs.
+
+## Real accounts. Real prices. Real money.
+
+Not a sandbox, not a demo, not a read-only summary of what a page looked like.
+
+It signs in as you and works the way you would have. It navigates, reads,
+compares and decides. It gets past what gets in the way — the login wall, the
+consent banner, the verification code that lands on your phone. The totals are
+what you will actually be charged. The stock is what is actually in stock. The
+cart is sitting in your own account when it hands back.
+
+That is real power, which is why it is yours to grant: it reaches the accounts
+and sites you connect, and nothing else.
 
 ## Reach
 
