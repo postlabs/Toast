@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/postlabs/Toast/main/.github/icon.png" width="120" alt="Toast">
+<img src="https://raw.githubusercontent.com/postlabs/Toast/main/.github/signal-wave.svg" width="128" alt="Toast">
 
 # Toast
 
