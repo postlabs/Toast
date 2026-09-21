@@ -25,21 +25,17 @@ Ask it anything. Put it to work on anything.**
 
 ---
 
-You already pay for a capable agent. It sits in a terminal with no access to your
-mail, your calendar, or any of the sites you are signed into — and everything it
-finds scrolls away the moment it answers.
+You already pay for a capable agent. It can explain anything and reach nothing —
+it cannot open your mail, check your calendar, or touch a single site you are
+signed into. Whatever it works out scrolls away the moment it answers.
 
 **Toast is that reach, and somewhere to put it.** Your agent just got hands to act
 on your behalf. For any task, in any realm.
 
 ```
-   the agent you pay for            Toast                      what it can finally reach
-  ─────────────────────      ──────────────────       ──────────────────────────────────
-                                                    ┌─  live sites, signed in as you
-     Claude   ──┐             reach                 │
-     ChatGPT  ──┼──────▶      canvas       ──────▶  ├─  mail · calendar · drive
-     Gemini   ──┘             standing duty         │
-                                                    └─  shops · banks · boards
+   Claude   ──┐                                        ┌──  live sites, signed in as you
+   ChatGPT  ──┼──▶  reach · canvas · standing duty  ──▶┼──  mail · calendar · drive
+   Gemini   ──┘                                        └──  shops · banks · boards
 ```
 
 ## Reach
