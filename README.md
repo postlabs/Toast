@@ -48,22 +48,22 @@ carrying things yourself.
 
 ## Ask for the whole job
 
-> **"Okinawa in March, two of us, with baggage."**
+> **"Tokyo in March, two of us, with bags."**
 >
 > It reads the booking sites side by side, folds together the same flight sold by
 > five sellers, adds the bag fee you would have met at the gate, and lays out who
-> is actually cheapest — next to the photos travellers posted from that trip.
+> is actually cheapest — next to the photos travelers posted from that trip.
 
-> **"Running shoes, wide feet, under ₩150,000."**
+> **"Running shoes, wide feet, under $120."**
 >
 > Fit reports, video tests, and the Reddit replies that contradict them. Matched
 > on width *before* price, down to the exact variant that is in stock.
 
 > **"How are my holdings doing, and what are people saying?"**
 >
-> Positions with sparklines and today's move, the factors behind each one, and
-> the stock-board reaction underneath — arguments left intact, not averaged into
-> a sentiment score.
+> NVDA, MU and INTC with sparklines and today's move, the filing or headline
+> behind each one, and what StockTwits and Reddit are saying underneath —
+> arguments left intact, not averaged into a sentiment score.
 
 > **"Pull my documents and draft the handoff."**
 >
