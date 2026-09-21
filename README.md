@@ -1,13 +1,33 @@
 <div align="center">
 
-# Toast
+```
+             ██
+             ██  ██
+      ██     ██  ██
+      ██     ██  ██  ██
+  ██  ██     ██  ██  ██
+  ██  ██     ██  ██  ██
+  ██  ██     ██  ██  ██
+
+   T   O   A   S   T
+```
 
 ## Superpower your agent
 
 **The Claude, ChatGPT or Gemini you already use becomes a superagent.
 Ask it anything. Put it to work on anything.**
 
-[Download for Windows](https://github.com/postlabs/Toast/releases/latest) · [postlab.ai](https://postlab.ai)
+[![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)](https://claude.ai/code)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)](https://openai.com)
+[![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)](https://gemini.google.com)
+&nbsp;
+[![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://google.com/chrome)
+[![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=microsoftedge&logoColor=white)](https://microsoft.com/edge)
+&nbsp;
+[![Windows](https://img.shields.io/badge/Windows%2010%2B-0078D6?style=flat-square&logo=windows&logoColor=white)](https://github.com/postlabs/Toast/releases/latest)
+[![Free](https://img.shields.io/badge/no%20bill%20from%20us-2EA043?style=flat-square)](#it-is-free)
+
+### [⬇ Download for Windows](https://github.com/postlabs/Toast/releases/latest) &nbsp;·&nbsp; [postlab.ai](https://postlab.ai)
 
 </div>
 
@@ -20,13 +40,23 @@ finds scrolls away the moment it answers.
 **Toast is that reach, and somewhere to put it.** Your agent just got hands to act
 on your behalf. For any task, in any realm.
 
+```
+   the agent you pay for            Toast                      what it can finally reach
+  ─────────────────────      ──────────────────       ──────────────────────────────────
+                                                    ┌─  live sites, signed in as you
+     Claude   ──┐             reach                 │
+     ChatGPT  ──┼──────▶      canvas       ──────▶  ├─  mail · calendar · drive
+     Gemini   ──┘             standing duty         │
+                                                    └─  shops · banks · boards
+```
+
 ## Reach
 
 **The real web, signed in as you.** Not a scrape and not a search summary. Toast
-drives a real browser carrying your own session, then reads the JSON the page
-fetched for itself — every row behind a listing, with the counts, scores and IDs
-the rendered card leaves out. A read that works once is promoted into a **dough**
-you can run again tomorrow.
+drives a real browser — Chrome or Edge — carrying your own session, then reads the
+JSON the page fetched for itself: every row behind a listing, with the counts,
+scores and IDs the rendered card leaves out. A read that works once is promoted
+into a **dough** you can run again tomorrow.
 
 **Your accounts, connected once.** Mail, calendar, drive, messaging, the shops and
 banks and boards you use — each one a **kit**: a small, declared integration with
@@ -82,9 +112,17 @@ connections. Nothing leaks between them.
 
 ## Install
 
-One file, under a megabyte. It fetches the app in content-addressed layers, and
-every update after that downloads only the blobs that changed. If a release ever
-misbehaves it restores the last version that worked, by itself, with no download.
+```
+  ToastSetup.exe   ~1 MB       one file, and it asks before anything lands
+        │
+        ├─ runtime            Electron · Node · CPython · uv
+        ├─ engine             the backend and its natives
+        └─ app                the interface, kits, spreads, baskets
+                              ↳ every later update fetches only what changed
+```
+
+If a release ever misbehaves it restores the last version that worked, by itself,
+with no download.
 
 Windows 10 (64-bit) or later. macOS and Linux are in progress.
 
@@ -97,7 +135,7 @@ where they are.
 
 <div align="center">
 
-[Download](https://github.com/postlabs/Toast/releases/latest) · [Website](https://postlab.ai) · [Privacy](https://postlab.ai/privacy)
+[⬇ Download](https://github.com/postlabs/Toast/releases/latest) &nbsp;·&nbsp; [Website](https://postlab.ai) &nbsp;·&nbsp; [Privacy](https://postlab.ai/privacy)
 
 <sub>© Postlab Inc.</sub>
 
