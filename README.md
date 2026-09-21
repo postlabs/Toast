@@ -1,16 +1,8 @@
 <div align="center">
 
-```
-             ██
-             ██  ██
-      ██     ██  ██
-      ██     ██  ██  ██
-  ██  ██     ██  ██  ██
-  ██  ██     ██  ██  ██
-  ██  ██     ██  ██  ██
+<img src="https://raw.githubusercontent.com/postlabs/Toast/main/.github/icon.png" width="120" alt="Toast">
 
-   T   O   A   S   T
-```
+# Toast
 
 ## Superpower your agent
 
