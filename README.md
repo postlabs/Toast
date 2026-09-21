@@ -25,18 +25,52 @@ Ask it anything. Put it to work on anything.**
 
 ---
 
-You already pay for a capable agent. It can explain anything and reach nothing —
-it cannot open your mail, check your calendar, or touch a single site you are
-signed into. Whatever it works out scrolls away the moment it answers.
+Every agent claims it can read your inbox. Getting there is an MCP server, a
+fistful of API keys, a skills folder and a lost afternoon — and after all that,
+you ask it for a summary maybe twice.
 
-**Toast is that reach, and somewhere to put it.** Your agent just got hands to act
-on your behalf. For any task, in any realm.
+**Toast is the part nobody finishes.** Connect an account once and your agent is
+already inside the sites you are actually signed into, doing the whole job and
+bringing back the evidence.
 
 ```
    Claude   ──┐                                        ┌──  live sites, signed in as you
    ChatGPT  ──┼──▶  reach · canvas · standing duty  ──▶┼──  mail · calendar · drive
    Gemini   ──┘                                        └──  shops · banks · boards
 ```
+
+## Ask for the whole job
+
+> **"Okinawa in March, two of us, with baggage."**
+>
+> It reads the booking sites side by side, folds together the same flight sold by
+> five sellers, adds the bag fee you would have met at the gate, and lays out who
+> is actually cheapest — next to the photos travellers posted from that trip.
+
+> **"Running shoes, wide feet, under ₩150,000."**
+>
+> Fit reports, video tests, and the Reddit replies that contradict them. Matched
+> on width *before* price, down to the exact variant that is in stock.
+
+> **"How are my holdings doing, and what are people saying?"**
+>
+> Positions with sparklines and today's move, the factors behind each one, and
+> the stock-board reaction underneath — arguments left intact, not averaged into
+> a sentiment score.
+
+> **"Pull my documents and draft the handoff."**
+>
+> Through the phone authentication, out as readable pages and an email draft with
+> the attachments already named.
+
+> **"Dad wants the usual order."**
+>
+> Reads the message, matches what he bought last time, fills the cart, totals it,
+> and pings your phone before anything is paid for.
+
+None of these are a prompt you have to engineer. They are **baskets** — small
+apps built from doughs — and they ship with the app or come from people who
+published theirs.
 
 ## Reach
 
