@@ -25,13 +25,18 @@ Ask it anything. Put it to work on anything.**
 
 ---
 
-Every agent claims it can read your inbox. Getting there is an MCP server, a
-fistful of API keys, a skills folder and a lost afternoon — and after all that,
-you ask it for a summary maybe twice.
+Ask your agent for something real and it tells you what it *would* do. Then you
+go and do it. You open the site. You sign in. You copy the page back into the
+chat. You paste its answer into the cart.
 
-**Toast is the part nobody finishes.** Connect an account once and your agent is
-already inside the sites you are actually signed into, doing the whole job and
-bringing back the evidence.
+Every useful thing your agent has ever done for you, **you carried across
+yourself.** You are the bridge between it and the world, every single time.
+
+Nobody likes this, so everybody has tried to fix it: an MCP server, a fistful of
+API keys, a skills folder, a lost afternoon — and after all that you ask it for a
+summary maybe twice, and go back to carrying things yourself.
+
+**Toast is that bridge.** Your agent stops describing the job and does it.
 
 ```
    Claude   ──┐                                        ┌──  live sites, signed in as you
@@ -68,22 +73,18 @@ bringing back the evidence.
 > Reads the message, matches what he bought last time, fills the cart, totals it,
 > and pings your phone before anything is paid for.
 
-None of these is a prompt you have to engineer. They are **baskets** — small apps
-built from doughs — and they ship with the app or come from people who published
-theirs.
-
-## Real accounts. Real prices. Real money.
-
-Not a sandbox, not a demo, not a read-only summary of what a page looked like.
-
-It signs in as you and works the way you would have. It navigates, reads,
-compares and decides. It gets past what gets in the way — the login wall, the
-consent banner, the verification code that lands on your phone. The totals are
-what you will actually be charged. The stock is what is actually in stock. The
-cart is sitting in your own account when it hands back.
+It crosses as you, not as a demo. It navigates, reads, compares and decides, and
+it gets past what gets in the way — the login wall, the consent banner, the
+verification code that lands on your phone. **Real accounts, real prices, real
+money:** the totals are what you will be charged, the stock is what is actually
+in stock, and the cart is sitting in your own account when it hands back.
 
 That is real power, which is why it is yours to grant: it reaches the accounts
 and sites you connect, and nothing else.
+
+None of these is a prompt you have to engineer. They are **baskets** — small apps
+built from doughs — and they ship with the app or come from people who published
+theirs.
 
 ## Reach
 
